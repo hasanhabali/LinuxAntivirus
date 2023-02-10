@@ -17,7 +17,7 @@ pacman -S clamav chkrootkit
 ```
 # USAGE
 ```
-git clone https://github.com/hasanhabali/LinuxAntivirus
+git clone https://github.com/hasanhabali/LinuxAntivirus.git
 cd LinuxAntivirus
 ./av.sh
 ```
